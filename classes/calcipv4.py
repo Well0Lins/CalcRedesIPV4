@@ -135,3 +135,5 @@ class CalcIPv4:
 
     def _get_numero_ips(self):
         return 2 ** (32 - self.prefixo)
+
+
